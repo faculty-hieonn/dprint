@@ -2,9 +2,9 @@
 
 how to install :
 
-python -m pip install git+https://github.com/hieonn/debugprint.git#egg=dprint
+python -m pip install git+https://github.com/faculty-hieonn/dprint.git#egg=dprint
 
-python -m pip install --upgrade git+https://github.com/hieonn/debugprint.git#egg=dprint
+python -m pip install --upgrade git+https://github.com/faculty-hieonn/dprint.git#egg=dprint
 
 how to check :
 
